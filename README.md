@@ -2,28 +2,19 @@
 
 ### Systems Software Engineer | Data Scientist | Machine Learning Engineer | Cloud Engineer
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> <br>
 
-Passionate about building intelligent systems, solving complex problems, and leveraging technology to create meaningful impact.
-
-👩🏾‍💻 Computer Science graduate with experience spanning Software Engineering, Enterprise Technology, Project Delivery, Data Science, and Artificial Intelligence.
+👩🏾‍💻Passionate about building intelligent systems, solving complex problems, and leveraging technology to create meaningful impact.
 
 ⚡ Currently advancing my expertise in Machine Learning, Deep Learning, MLOps, and AI Engineering through hands-on projects and continuous learning.
 
-🌍 Interested in Artificial Intelligence, Data Science, Cloud Computing, Backend Engineering, Distributed Systems, Digital Transformation, and Technology for Sustainable Development.
-
 🚀 Building solutions that combine data, software, and cloud technologies to solve real-world challenges across energy, agriculture, healthcare, and emerging markets.
 
-💡 Strong believer in using technology as a tool for innovation, empowerment, and inclusive growth.
+✨ Passionate about building technology that solves real-world problems
 
----
+💡 Enjoy turning ideas into products and data into actionable insights
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martha-esinam-kekele-demanya)
-
-[![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/just_kekele)
-
+📚 Lifelong learner exploring AI, cloud technologies, and emerging innovations
 ---
 
 ## 💻 Tech Stack
@@ -65,22 +56,6 @@ Passionate about building intelligent systems, solving complex problems, and lev
 
 ---
 
-## 📌 Featured Projects
-
-### 🤖 LLM-Powered Text Summarization Tool
-Developing an intelligent summarization system that condenses lengthy documents into concise, meaningful insights while preserving context and key information.
-
-### ⚡ Energy Demand Forecasting
-Building machine learning models to forecast electricity demand and support data-driven energy planning.
-
-### 🌱 AI for Agriculture
-Exploring predictive and analytical solutions that improve agricultural productivity and sustainability.
-
-### 📊 End-to-End Machine Learning Solutions
-Designing and deploying ML pipelines from data collection and preprocessing to model deployment and monitoring.
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=esinam-kekele&theme=tokyonight&hide_border=true&show_icons=true)
@@ -88,20 +63,6 @@ Designing and deploying ML pipelines from data collection and preprocessing to m
 ![](https://github-readme-streak-stats.herokuapp.com/?user=esinam-kekele&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=esinam-kekele&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-## ✨ A Few Things About Me
-
-✨ Passionate about building technology that solves real-world problems
-
-🚀 Enjoy turning ideas into products and data into actionable insights
-
-📚 Lifelong learner exploring AI, cloud technologies, and emerging innovations
-
-🌍 Committed to leveraging technology for social impact and sustainable development
-
-💜 Advocating for greater participation of women in STEM and technology
 
 ---
 
